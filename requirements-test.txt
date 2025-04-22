@@ -1,5 +1,5 @@
 -r requirements-core.txt
 
 # clean code
-black==21.11b1
+black==24.3.0
 prospector[with_mypy,with_bandit]==1.5.1
